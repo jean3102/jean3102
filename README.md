@@ -52,7 +52,7 @@
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 			alt="express"
 			width="40"
-			height="40" />
+			height="40" style="background-color:white;" />
 	</a>
 	<a
 		href="https://reactjs.org/"
